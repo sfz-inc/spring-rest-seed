@@ -1,6 +1,6 @@
 logging:
   level:
-    com.atomist.spring.agent: DEBUG
+    com.atomist.spring.agent: INFO
 atomist:
   enabled: true
   debug: true
